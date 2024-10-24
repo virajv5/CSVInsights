@@ -1,0 +1,34 @@
+.hcard{
+    position: absolute;
+    display: flex;
+    top: 120px;
+    gap: 80px;
+    left: 93px;
+    height: 400px;
+    width: 1426px;
+    background-color: #d4d4d4;
+    border-radius: 25px;
+}
+
+.ctitle{
+    font-size: 60px;
+    font-family: cursive;
+    position: absolute;
+    z-index: 0px;
+    top: 95px;
+    left: 50px;
+}
+
+.details{
+    position: absolute;
+    left: 600px;
+    top: 47px;
+    width: 745px;
+    height: 290px;
+    text-align: justify;
+    font-family: cursive;
+}
+
+.CardText{
+    font-size: 22px;
+}

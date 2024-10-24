@@ -1,0 +1,33 @@
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: #595c5e;
+}
+
+
+.title{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.navbar{
+    position: absolute;
+    left: 250px;
+    top: 3px;
+    color: #f1ecec;
+    list-style: none;
+    display: flex;
+    gap: 23px;
+}
+
+.navitems{
+    list-style: none;
+    text-decoration: none;
+    font-size: 19px;
+    color: #f1ecec;
+    font-family: cursive;
+    
+}
